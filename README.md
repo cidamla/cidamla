@@ -1,5 +1,4 @@
-### Hi, I am Damla 👋
-- A passionate data scientist from Germany
+
 <h1 align="center">Hi 👋, I'm Damla</h1>
 <h3 align="center">A passionate data scientist from Germany</h3>
 
